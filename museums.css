@@ -1,0 +1,61 @@
+body{
+	background-color:#fff;
+	font-family:helvetica;
+	font-weight:normal;
+	font-size:11px;
+	border-top:20px solid orange;
+	padding:0px;
+}
+#header{
+	color:#aaa;
+	letter-spacing:1px;
+	width:100%;
+	padding:25px;
+	z-index:999;
+	border-bottom:1px dotted orange;
+}
+#text{
+	padding:20px;
+	width:70%;
+}
+p{
+	padding:10px;
+}
+#title{
+	font-size:18px;	
+	padding:5px;
+}
+#subtitle{
+	font-size:13px;	
+	padding:5px;
+	
+}
+#dropdown-container{
+	padding:7px;
+}
+#tree{
+	width:100%;
+	padding:20px;
+}
+.conditions{
+	font-family:helvetica;
+	font-size:11px;
+	font-weight:normal;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+select {
+	color:#999;
+	letter-spacing:1px;
+    border: 1px solid #aaa;
+	font-size:12px;
+    padding: 8px 35px 8px 8px;
+    -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+   background: #fff;
+}
